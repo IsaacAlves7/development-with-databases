@@ -7,6 +7,7 @@
 ## 🎒 Prerequisites and repositories 📚:
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
 [![WordPress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Joomla](https://img.shields.io/badge/-Joomla-5091CD?style=for-the-badge&logo=Joomla&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
