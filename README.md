@@ -634,4 +634,6 @@ https://v3b4d4f5.rocketcdn.me/wp-content/uploads/1/PHP-accelerators.png
 https://tedk.com.br/artigos/wp-content/uploads/2019/12/imagem-php.png
 https://becode.com.br/wp-content/uploads/2017/09/php-post-1.png
 https://miro.medium.com/max/4000/0*LR8ZkHpzwTAZjBtI.png
+https://cdn.lynda.com/course/2839045/2839045-637348114560141936-16x9.jpg
+https://cdn.lynda.com/course/5028663/5028663-637286303050841393-16x9.jpg
 <p>O <b>SQL Injection</b></p>-->
