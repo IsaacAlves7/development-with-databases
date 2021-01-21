@@ -60,7 +60,7 @@
 <div align="center"><img src="https://purepng.com/public/uploads/large/purepng.com-server-databaseservercomputingclientserverservice-providercommoditycloud-serverdatabasewindows-server-1701528389209cejn9.png" height="270"/></div>
 <p>Imagine da seguinte forma, um 🎲 <b>dado</b> é um pequeno item de uma informação, como por exemplo: um nome, um número ou endereço. Já uma <b>informação</b> é um conjunto desses dados. E um <b>arquivo</b> é um conjunto dessas informações. Cada um desses significados de dados podem ser organizados da seguinte categoria: <b>Registros</b>, <b>Tabelas</b> e <b>Arquivos</b>. Que se definem como:</p>
 <ul>
-  <li><strong>📋 Registros</strong> fichas de informações, iguais a que preenchemos em documentos;</li>
+  <li><strong>📋 Registros</strong> fichas de informações, iguais a que preenchemos em documentos, como por exemplo numa consulta ao médico;</li>
   <li><strong>📂 Tabelas</strong> são pastas que armazenam os registros;</li>
   <li><strong>🗃️ Arquivos</strong> armazenam as tabelas, como as gavetas de ferro;</li>
 </ul>
