@@ -95,6 +95,13 @@ Um 🏦 <b>Banco de dados</b> 🎲 são conjuntos de arquivos relacionados entre
   <li><strong>Firebird</strong>;</li>
   <li><strong>PostgreSQL</strong>;</li>
 </ul>
+<p>Soluções gratuitas de Banco de Dados No-SQL:</p>
+<ul>
+  <li><strong>Redis</strong>;</li>
+  <li><strong>Cassandra</strong>;</li>
+  <li><strong>MongoDB</strong>;</li>
+  <li><strong>SQ Lite</strong>;</li>
+</ul>
 <hr>
 
 <div align="center"><h1>Cap 02: 🔠 Álgebra Relacional 🔣</h1></div>
