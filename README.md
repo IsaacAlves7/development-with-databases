@@ -618,9 +618,7 @@ A forma geral da operação Diferença entre duas tabelas A e B é a seguinte:</
     <td>Navathe</td>
   </tr>
 </table>
-
-## Síntese
-
+<hr>
 
 <h1 align="center">Cap 03: 🎲 Linguagem SQL - DML e DDL 🔢</h1>
 <div align="center"><img src="https://rapidthumbs.files.wordpress.com/2014/04/sql.png" height="270"/></div>
