@@ -79,6 +79,7 @@ Um 🏦 <b>Banco de dados</b> 🎲 são conjuntos de arquivos relacionados entre
   <li><strong>Modelo Hierárquico</strong> Armazenam dados de uma maneira bem simplista, mas tudo na forma hierárquica;</li>
   <li><strong>Modelo em Redes</strong> Armazenam os dados em forma de rede inteligente, sem grau de superioridade ou inferioridade;</li>
   <li><strong>Modelo Relacional</strong> Armazenam os dados em relação entre eles, ou seja, armazena um conjunto de registros a outro conjunto de registros que está em outra tabela;</li>
+  <li><strong>No-SQL</strong> Armazenam e recuperam dados que são modelados de formas diferentes das relações tabulares usadas nos banco de dados relacionais.</li>
 </ul>
 <p>Com isso, existem muitas opções para banco de dados:</p>
 <div align="center"><img src="https://image.slidesharecdn.com/aws-esri-120923115607-phpapp01/95/aws-e-esri-solues-de-mapas-e-anlise-espacial-na-nuvem-48-728.jpg?cb=1348401582" height="400"></div>
