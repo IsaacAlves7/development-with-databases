@@ -1,4 +1,4 @@
-# It's a repository of Development with Databases 🎲🏦🔢
+# <img src="https://emojis.slackmojis.com/emojis/images/1467056994/596/database.png?1467056994" height="30"> It's a repository of Development with Databases 🎲🔢
 <p>I created this repository for my development FullStack with databases learning.</p>
 
 <a href="https://github.com/IsaacAlves7/development-with-databases"><img src="https://cdn.lynda.com/course/563093/563093-637286208186280625-16x9.jpg" width="1070"/></a>
