@@ -460,6 +460,31 @@ PK_NOME_PESSOA = FK_NOME_ALUNO FK_NOME DISCIPLINA = PK_DISCIPLINA</p></pre>
   </tr>
 </table>
 
+### Chave primária
+Chave primária (PK) é um conjunto de um ou mais campos, cujo os valores nunca se repetem na mesma tabela do banco de dados, dessa forma, podem ser usadas como um índice de referência para criar relacionamentos com as demais tabela do banco de dados. 
+
+Chave estrangeira (FK) é o tipo de relacionamento entre distintas tabelas de dados do banco de dados.
+A importância da PK e FK, em um modelo relacional, é de possuir um grande relacionamento de dados em um conjunto de um ou mais campos em diferentes aplicações.
+Chave primária e chave estrangeira são conceitos importantes na modelagem de dados, pois implementam restrições que garantirão ao futuro banco de dados a integridade dos dados.
+
+Chave primária: Atributo ou combinação de atributos que possuem a propriedade de identificar de forma única uma linha da tabela.
+EX: Poderia ser o campo CPF ou o campo RG, pois ambos garantem um atributo único que asseguram a unicidade do registro.
+
+
+Chave estrangeira: A chave estrangeira ocorre quando um atributo de uma relação for chave primária em outra relação.
+O que são tupla, Relação,
+
+tupla é uma linha, relação é uma tabela, entidade são unicidades de linhas em uma relação, atributo é um cabeçalho de uma coluna e domínio são os dados permitidos na coluna de uma relação (tabela).
+
+Na terminologia do modelo relacional formal, uma linha é chamada tupla, um cabeçalho de coluna é conhecido como atributo, e a tabela é chamada relação. O tipo de dado que descreve os tipos de valores que podem aparecer em cada coluna é representado pelo domínio de valores possíveis.
+Por que as tuplas repetidas não são permitidas em uma relação?
+Uma tupla é uma linha de registro. Não faz sentido termos duas linhas de registros iguais. Principalmente se houver uma chave primária definida.
+
+## Modelo de referência OSI e arquitetura TCP/ IP
+Definição: Organização das redes de comunicação de dados utilizadas pelos dispositivos computacionais e os modelos e arquitetura de redes empregados.
+Propósito: Reconhecer como as redes de computadores estão organizadas e estruturadas para definir as ferramentas adequadas ao processo de troca de dados entre todos os dispositivos.
+
+
 ## Operação de Conjuntos
 <p>São operações derivadas das operações matemáticas padrão definidas a partir da teoria dos conjuntos. (FONSECA, 2016, p. 18)
 
