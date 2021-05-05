@@ -46,14 +46,6 @@
 
 [![GitHub](https://img.shields.io/badge/-RelaXCalc-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://dbis-uibk.github.io/relax/landing)
 
-## 🐬🐘🍃👁️ Main menu - Fundamentals about the SQL language 🎲🏦🔢
-<b>All topics:</b>
-<ol>
-  <li><a href="https://github.com/IsaacAlves7/sql-language/blob/main/README.md#cap-01--implementa%C3%A7%C3%A3o-com-banco-de-dados-">🎲 Implementação com Banco de dados 🏦</a></li>
-  <li><a href="https://github.com/IsaacAlves7/sql-language/blob/main/README.md#cap-02--%C3%A1lgebra-relacional-">🔠 Álgebra Relacional 🔣</a></li>
-  <li><a href="https://github.com/IsaacAlves7/sql-language/blob/main/README.md#cap-03--linguagem-sql---dml-e-ddl-">🎲 Linguagem SQL - DML e DDL 🔢</a></li>
-  <li>💉 SQL Injection 🎲</li>
-</ol>
 <hr>
 
 <h1 align="center">Cap 01: 🎲 Implementação com Banco de dados 🏦</h1>
