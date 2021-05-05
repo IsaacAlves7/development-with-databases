@@ -57,9 +57,9 @@
   <li><strong>🗃️ Arquivos</strong> armazenam as tabelas, como as gavetas de ferro;</li>
   <li><strong>🗄️ Banco de dados</strong> conjunto desses arquivos;</li>
 </ul>
-Um 🏦 <b>Banco de dados</b> 🎲 são conjuntos ou coleções organizadas de fatos registrados ou arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas que refletem o estudo de certos aspectos de interesse do mundo real. <br \>
+<p>Um 🏦 <b>Banco de dados</b> 🎲 são conjuntos ou coleções organizadas de fatos registrados ou arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas que refletem o estudo de certos aspectos de interesse do mundo real.</p>
 
-Entre outras palavras, são coleções organizadas de dados que se relacionam de forma a criar algum sentido (Informação) e dar mais eficiência durante uma pesquisa ou estudo científico. Os bancos de dados armazenam informações de forma robusta, possuem segurança com os dados (Acesso com autorização), possuem integridade com os dados e integração com sistema Web.
+<p>Entre outras palavras, são coleções organizadas de dados que se relacionam de forma a criar algum sentido (Informação) e dar mais eficiência durante uma pesquisa ou estudo científico. Os bancos de dados armazenam informações de forma robusta, possuem segurança com os dados (Acesso com autorização), possuem integridade com os dados e integração com sistema Web.</p>
 
 <p>A estrutura do banco de dados é composta por:</p>
 <ol>
