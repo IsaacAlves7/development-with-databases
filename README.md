@@ -662,7 +662,7 @@ Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="170"></div>
   
-## SQLite
+## 🎲❌ SQLite 🪶
 <hr>
 
 
