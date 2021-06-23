@@ -660,7 +660,7 @@ Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará
 
 ## 🎲❌ MongoDB 🍃
 
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="170">
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="170"></div>
   
 ## SQLite
 <hr>
