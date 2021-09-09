@@ -1,16 +1,17 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1467056994/596/database.png?1467056994" height="30"> It's a repository of Development with Databases 🎲🔢
-<p>I created this repository for my development FullStack with databases learning.</p>
+<blockquote>I created this repository for my development FullStack with databases learning.</blockquote>
 
 <a href="https://github.com/IsaacAlves7/development-with-databases"><img src="https://cdn.lynda.com/course/563093/563093-637286208186280625-16x9.jpg" width="1070"/></a>
 
 ## 🎒 Prerequisites and repositories 📚:
 <blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in SQL language, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-[![JS](https://img.shields.io/badge/-JavaScript-007ACC?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
+[![JS](https://img.shields.io/badge/-JavaScript-007ACC?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
 [![PHP](https://img.shields.io/badge/-PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/IsaacAlves7/php-programming)
-[![Laravel](https://img.shields.io/badge/-Laravel-007ACC?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
-[![Python](https://img.shields.io/badge/-Python-339AF0?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
+[![Go](https://img.shields.io/badge/-Go-007ACC?style=for-the-badge&logo=Go&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
+[![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
 [![Java](https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
+[![Ruby](https://img.shields.io/badge/-Ruby-007ACC?style=for-the-badge&logo=Ruby&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JSON](https://img.shields.io/badge/-JSON-007ACC?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 
 ## 🔠 Para sites de cálculo de álgebra relacional, recomendo 🔣:
@@ -19,7 +20,7 @@
 
 <hr>
 
-<h1 align="center">Cap 01: 🎲 Implementação com Banco de dados 🏦</h1>
+<h1 align="center">🎲 Implementação com Banco de dados 🏦</h1>
 <div align="center"><img src="https://purepng.com/public/uploads/large/purepng.com-server-databaseservercomputingclientserverservice-providercommoditycloud-serverdatabasewindows-server-1701528389209cejn9.png" height="270"/></div>
 <p>Imagine da seguinte forma, um 🎲 <b>dado</b> é um pequeno item de uma informação, como por exemplo: um nome, um número ou endereço. Já uma <b>informação</b> é um conjunto desses dados. E um <b>arquivo</b> é um conjunto dessas informações. Cada um desses significados de dados podem ser organizados da seguinte categoria: <b>Registros</b>, <b>Tabelas</b> e <b>Arquivos</b>. Que se definem como:</p>
 <ul>
